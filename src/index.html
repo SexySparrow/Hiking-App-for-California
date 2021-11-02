@@ -174,13 +174,6 @@
           maxSize: "7px"
         }]
       };
-      var layer = new FeatureLayer({
-        portalItem: {
-          id: "29f5a1e6bf1e4394a692ba633d5c8af6", // my-layer-id
-          portal: "https://www.arcgis.com" // Default: The ArcGIS Online Portal
-        }
-      });
-      map.layers.add(layer);
       // Create the layer and set the renderer
       const trails = new FeatureLayer({
         url: "https://services3.arcgis.com/GVgbJbqm8hXASVYi/arcgis/rest/services/Trails/FeatureServer/0",
