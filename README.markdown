@@ -1,5 +1,3 @@
 # Interactive Data Map
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/sexysparrow/pen/bGrYvoO](https://codepen.io/sexysparrow/pen/bGrYvoO).
-
-
+Hike map with location tracking for California made using ArcGIS JavaScript API.
